@@ -8,4 +8,4 @@ Web Template
 
 ## Tutorial
 
-![YouTube](https://www.youtube.com/watch?v=zSg4_d6Qhzc)
+[![YouTube](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=zSg4_d6Qhzc)
